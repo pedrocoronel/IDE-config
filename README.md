@@ -1,1 +1,2 @@
-![image](https://github.com/pedrocoronel/config-vscode/assets/117082302/9a7a9d3a-40eb-436c-ad95-5c2edc8f34fe)
+VS Code minimal, com foco em ultilização em atalhos do editor.
+![image](https://github.com/pedrocoronel/config-vscode/assets/117082302/97de2a48-2bbe-410d-8c27-10c721d91d14)
